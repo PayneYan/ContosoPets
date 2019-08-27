@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Api\\ContosoPets.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Api\\ContosoPets.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Api\\ContosoPets.Api.csproj",
+        "projectName": "ContosoPets.Api",
+        "projectPath": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Api\\ContosoPets.Api.csproj",
+        "packagesPath": "C:\\Users\\v-paya\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\v-paya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.DataAccess\\ContosoPets.DataAccess.csproj": {
+                "projectPath": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.DataAccess\\ContosoPets.DataAccess.csproj"
+              },
+              "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\ContosoPets.Domain.csproj": {
+                "projectPath": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\ContosoPets.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.DataAccess\\ContosoPets.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.DataAccess\\ContosoPets.DataAccess.csproj",
+        "projectName": "ContosoPets.DataAccess",
+        "projectPath": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.DataAccess\\ContosoPets.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\v-paya\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\v-paya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\ContosoPets.Domain.csproj": {
+                "projectPath": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\ContosoPets.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\ContosoPets.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\ContosoPets.Domain.csproj",
+        "projectName": "ContosoPets.Domain",
+        "projectPath": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\ContosoPets.Domain.csproj",
+        "packagesPath": "C:\\Users\\v-paya\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\v-paya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+D:\Study\SourceCode\NetCore\2019-08\2019-08-02\ContosoPets\ContosoPets.Domain\bin\Debug\netstandard2.0\ContosoPets.Domain.deps.json
+D:\Study\SourceCode\NetCore\2019-08\2019-08-02\ContosoPets\ContosoPets.Domain\bin\Debug\netstandard2.0\ContosoPets.Domain.dll
+D:\Study\SourceCode\NetCore\2019-08\2019-08-02\ContosoPets\ContosoPets.Domain\bin\Debug\netstandard2.0\ContosoPets.Domain.pdb
+D:\Study\SourceCode\NetCore\2019-08\2019-08-02\ContosoPets\ContosoPets.Domain\obj\Debug\netstandard2.0\ContosoPets.Domain.csprojAssemblyReference.cache
+D:\Study\SourceCode\NetCore\2019-08\2019-08-02\ContosoPets\ContosoPets.Domain\obj\Debug\netstandard2.0\ContosoPets.Domain.csproj.CoreCompileInputs.cache
+D:\Study\SourceCode\NetCore\2019-08\2019-08-02\ContosoPets\ContosoPets.Domain\obj\Debug\netstandard2.0\ContosoPets.Domain.AssemblyInfoInputs.cache
+D:\Study\SourceCode\NetCore\2019-08\2019-08-02\ContosoPets\ContosoPets.Domain\obj\Debug\netstandard2.0\ContosoPets.Domain.AssemblyInfo.cs
+D:\Study\SourceCode\NetCore\2019-08\2019-08-02\ContosoPets\ContosoPets.Domain\obj\Debug\netstandard2.0\ContosoPets.Domain.dll
+D:\Study\SourceCode\NetCore\2019-08\2019-08-02\ContosoPets\ContosoPets.Domain\obj\Debug\netstandard2.0\ContosoPets.Domain.pdb

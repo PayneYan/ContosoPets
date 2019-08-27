@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\ContosoPets.Domain.csproj": {}
+  },
+  "projects": {
+    "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\ContosoPets.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\ContosoPets.Domain.csproj",
+        "projectName": "ContosoPets.Domain",
+        "projectPath": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\ContosoPets.Domain.csproj",
+        "packagesPath": "C:\\Users\\v-paya\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\SourceCode\\NetCore\\2019-08\\2019-08-02\\ContosoPets\\ContosoPets.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\v-paya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
